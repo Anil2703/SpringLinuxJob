@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: SpringLinuxApplication
+
+server:
+  servlet:
+    context-path: /springlinuxapplication
